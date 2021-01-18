@@ -1,0 +1,5 @@
+joblib==0.15.1
+numpy==1.19.0
+pickleshare==0.7.5
+streamlit==0.74.1
+gunicorn
