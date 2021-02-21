@@ -17,7 +17,7 @@ I have added the feature in which the user can chose one of the model mentioned 
 4. DEPLOYMENT
 --------------
 The app uses Streamlit framework to create a front-end API and is deployed on Heroku.
-Streamlit is framework using which you can create aesthetic front-end Webapp without the need of HTML and CSS. You can check their website here. https://www.streamlit.io/
+Streamlit is framework using which you can create aesthetic front-end Webapp without the need of HTML and CSS. You can check their website here. https://www.streamlit.io/. 
 Please feel free to try out the app by hitting this link!! https://vehicle-price-predictor-1.herokuapp.com/
 
 5. INSIGHTS
